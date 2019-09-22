@@ -3,6 +3,12 @@ Real time emotion recognition based on action units using deep neural networks a
 [Deep convolutional network](https://mega.nz/#!9wYUFQra!UJ6tMEUWOe917BE-YpCIYAISnTGf8RfXhFLwdsmzeCE) used to identify the action units active in a face
 
 ## Emotions recognized
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/neutral.png" width="200" height="400" />
-![happiness](https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/happiness.png)
-![sadness](https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/sadness.png)
+<span>
+<img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/neutral.png"  width="200"/>
+<img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/happiness.png"  width="200"/>
+<img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/sadness.png"  width="200"/>
+<img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/surprise.png"  width="200"/>
+<img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/fear.png"  width="200"/>
+<img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/anger.png"  width="200"/>
+<img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/disgust.png"  width="200"/>
+</span>
