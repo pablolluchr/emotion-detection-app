@@ -1,7 +1,6 @@
 #TRY ON ONE EXAMPLE
 
 import numpy as np
-from keras.preprocessing import image
 
 
 from matplotlib import pyplot as plt

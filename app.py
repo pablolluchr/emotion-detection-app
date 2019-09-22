@@ -1,5 +1,4 @@
 import logging
-import threading
 import time
 import numpy as np
 import cv2
@@ -68,7 +67,7 @@ def inferEmotion(frame_queue,emotion_queue):
             top_emotion = 0
 
         # reduce noise by making the top emotion the most popular top emotion over the past 5 inferences
-        if len(past_emotions)>=4:
+        if len(past_emotions)>=:
             past_emotions.pop()
         past_emotions.insert(0,top_emotion)
         top_emotion = max(set(past_emotions), key=past_emotions.count)
