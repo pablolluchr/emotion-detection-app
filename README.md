@@ -7,7 +7,7 @@ Trained [Deep convolutional neural network (CNN)](https://mega.nz/#!9wYUFQra!UJ6
 
 
 ## Emotions recognized
-The application is able to recognize the seven emotions displayed below. The application is theoretically able to recognize a further emotion –content. But due to a lack of recall on that specific emotion it was excluded from the list.
+The application is able to recognize the seven emotions displayed below. The application is theoretically able to recognize a further emotion –content, but due to a lack of recall on that specific emotion it was excluded from the list.
 
 <span>
 <img src="https://raw.githubusercontent.com/pablolluchr/emotion-detection-app/master/preview/neutral.png"  width="200"/>
